@@ -1,0 +1,14 @@
+# Otticanet web scraped data 
+
+## About the website
+
+Otticanet is an esteemed e-commerce platform headquartered in Italy specializing in online retail of designer eyewear. Operating worldwide, their business model is primarily based on offering customers a large array of brand-name eyewear at competitive prices. Founded in 2003, they have developed a reputation for supplying top-notch products from prominent brands such as Ray-Ban, Prada, and Gucci. Despite not being a publicly listed company, Otticanet has managed to carve out a significant chunk of the online eyewear market, due to their focus on customer service and authenticity. The company operates strictly online, with no physical stores. More information about the company can be found on their [official website](https://www.otticanet.com/). Unfortunately, Otticanet doesn	 have a dedicated Wikipedia or Bloomberg page as of this writing.
+
+Otticanet operates in a highly competitive market, with rivals such as [GlassesUSA](https://www.glassesusa.com/), [Zenni Optical](https://www.zennioptical.com/), and [SmartBuyGlasses](https://www.smartbuyglasses.com/) offering similar services. GlassesUSA, according to their [Wikipedia page](https://en.wikipedia.org/wiki/GlassesUSA), operates primarily online and offers a wider selection of own-branded eyewear. Zenni Optical also runs an online storefront but stands out by manufacturing its own line of budget-friendly eyewear, as explained on its [Wikipedia page](https://en.wikipedia.org/wiki/Zenni_Optical). Meanwhile, SmartBuyGlasses, similar to Otticanet, focuses on offering designer eyewear at significantly reduced prices. It does not have a dedicated Wikipedia or Bloomberg page, but information about the company can be found on their [official website](https://www.smartbuyglasses.com/).
+
+Web scraped data can remarkably assist Otticanet by providing a competitive edge through strategic insights. For instance, web scrapers can collect pricing data from major competitors. This allows Otticanet to understand the pricing strategies of their rivals and adjust theirs accordingly—whether they aim to position themselves as a more affordable option or justify a higher price by leveraging their unique selling proposition. Additionally, discounts and sales offered by competitors can be tracked in real-time, providing insights that enable Otticanet to proactively respond with similar or better offers. Hypothetically, this could contribute to increased sales and enhanced customer loyalty for Otticanet. By employing web scraping, Otticanet not only strengthens its market position but also tailors its services to better meet the specific needs of its customers.
+
+
+## Link to **dataset**
+
+[Otticanet dataset](https://www.databoutique.com/buy-data-list-subset/Otticanet%20web%20scraped%20data/r/recH5oxY08ddbZdQ6)
